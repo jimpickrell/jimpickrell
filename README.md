@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimpickrell
-- 👀 I’m interested in Computer Science, Games, RObotics, Artifical Intelligence
+- 👀 I’m interested in Computer Science, Games, Robotics, Artifical Intelligence
 - 🌱 I’m currently learning Unity
 
 - 📫 How to reach me: jim.pickrell (at) gmail.com
